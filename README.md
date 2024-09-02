@@ -22,6 +22,9 @@ cat ~/nillion/accuser/credentials.json
 ```
 
 **Final Command Copy from Website**
+```
+
+```
 
 👉**Join Telegram Channel** https://t.me/teluguearningss
 
