@@ -21,6 +21,7 @@ mkdir -p nillion/accuser && sudo docker run -v ./nillion/accuser:/var/tmp nillio
 cat ~/nillion/accuser/credentials.json
 ```
 
+**Now Wait 1 to 2 Hours**
 
 **Final Command Copy from Website**
 
