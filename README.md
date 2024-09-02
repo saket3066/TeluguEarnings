@@ -25,4 +25,4 @@ cat ~/nillion/accuser/credentials.json
 
 👉**Join Telegram Channel** https://t.me/teluguearningss
 
-**Happy Farming Bro's** 😉🧑‍💻
+👉**Happy Farming Bro's** 😉🧑‍💻
