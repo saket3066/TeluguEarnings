@@ -24,4 +24,4 @@ cat ~/nillion/accuser/credentials.json
 **Final Command To Run**
 ```
 --- Copy from Website ---
-```
+
