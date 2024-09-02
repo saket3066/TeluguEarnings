@@ -21,9 +21,8 @@ mkdir -p nillion/accuser && sudo docker run -v ./nillion/accuser:/var/tmp nillio
 cat ~/nillion/accuser/credentials.json
 ```
 
-**Final Command Copy from Website**
 ```
-
+**Final Command Copy from Website**
 ```
 
 👉**Join Telegram Channel** https://t.me/teluguearningss
